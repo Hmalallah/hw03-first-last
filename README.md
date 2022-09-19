@@ -10,6 +10,8 @@ the amount of aid as either economic or military aid. The data ranges from 1948 
 Here is a link to the data report that includes a dictionary for the terms in the dataset. 
 https://pdf.usaid.gov/pdf_docs/PBAAJ833.pdf
 cvs vergion of the report is very messy! 
+https://github.com/Hmalallah/hw03-first-last/blob/master/data/raw/report.csv
+
 
 link to tidiest dataset.
 https://github.com/Hmalallah/hw03-first-last/blob/master/data/greenbook_tidy.cvs
