@@ -11,4 +11,4 @@ ggplot(gb4, aes(x = log_dollars_aid, fill= assistance_category)) +
 #The amount of total aid the US spend from 1948 to 2020 in natural log 
 # divided between economic and military aid. 
 
-ggsave("econ-and-milt-aid.pdf", height = 5, width = 8)
+ggsave("econ-and-milt-aid.png", height = 5, width = 8)
