@@ -11,7 +11,5 @@ Here is a link to the data report that includes a dictionary for the terms in th
 https://pdf.usaid.gov/pdf_docs/PBAAJ833.pdf
 cvs vergion of the report is very messy! 
 
-Here is a link to the dataset. 
-
-
 link to tidiest dataset.
+https://github.com/Hmalallah/hw03-first-last/blob/master/data/greenbook_tidy.cvs
